@@ -1,6 +1,6 @@
 // jello
 
-import * as THREE from 'three';
+import * as THREE from 'https://unpkg.com/three@0.174.0/build/three.cjs';
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
