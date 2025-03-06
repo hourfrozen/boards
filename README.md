@@ -1,2 +1,4 @@
 # boards
-game
+
+
+assets for the boards electron application!
